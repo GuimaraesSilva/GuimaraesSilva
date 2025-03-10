@@ -3,20 +3,14 @@
 </h1>
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Englebert&size=32&duration=2500&pause=500&color=DAA749&center=true&vCenter=true&repeat=false&random=true&width=600&height=80&lines=A+passionate+Software+Developer+from+Portugal" alt="Typing SVG" /></a></h3>
-
 <br/>
 
 <div align="center">
- 
- <!-- 🔭 I’m currently working on **a marketplace** -->
- 
- 🌱 I’m currently learning **Docker, AWS**
 
-💬 Ask me about **Node.js, React, ... or anything [here](https://github.com/salesp07/salesp07/issues)**
+<img align="center" src="https://github.com/user-attachments/assets/f5d5e1dc-3c56-4ac4-ae1a-45a7f6987f0b" width="32" height="32" style="filter: invert(100%);"> I’m currently learning **bun,docker,aws,dynamodb** 
 
-<!-- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs** -->
-
- </div>
+</div>
+<br/>
  
 <div align="center"> 
   <a href="mailto:fabio8gsilva@gmail.com">
@@ -31,24 +25,17 @@
 </div>
 
  <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
+<h2 align="center"><img align="center" src="https://github.com/user-attachments/assets/712ded5b-2945-4659-8254-53410a895f2b" width="32" height="32" style="filter: invert(100%);"> Languages | Frameworks | Tools <img align="center" src="https://github.com/user-attachments/assets/712ded5b-2945-4659-8254-53410a895f2b" width="32" height="32" style="filter: invert(100%);"></h2>
 <br/>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=figma,vscode,github,git,nodejs" /><br/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vitejs,nextjs,mui,tailwind,typescript" /><br/>
+    <img src="https://skillicons.dev/icons?i=mongodb,docker,linux,nextjs,mysql" /><br>
 </div>
 
 <br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
