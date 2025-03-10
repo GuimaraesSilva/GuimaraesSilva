@@ -1,10 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Fábio+Silva!;" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Englebert&size=48&duration=2500&pause=500&color=DAA749&center=true&vCenter=true&random=true&width=260&height=80&lines=Hi+There!+%E2%9C%8C%F0%9F%8F%BD%EF%B8%8F;I'm+F%C3%A1bio+SIlva!" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">A passionate software developer from Portugal PT</h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Englebert&size=32&duration=2500&pause=500&color=DAA749&center=true&vCenter=true&repeat=false&random=true&width=600&height=80&lines=A+passionate+Software+Developer+from+Portugal" alt="Typing SVG" /></a></h3>
 
 <br/>
 
