@@ -4,7 +4,7 @@
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jost&size=32&pause=1000&color=DAA749&width=700&height=50&lines=A+passionate+Front-End+Developer+from+Portugal" alt="Typing SVG" /></a></h3>
 <br/>
 <div align="center">
-<img align="center" src="https://github.com/user-attachments/assets/f5d5e1dc-3c56-4ac4-ae1a-45a7f6987f0b" width="32" height="32" style="filter: invert(100%);"> I’m currently learning ** Angular.JS , Docker, AWS** 
+<img align="center" src="https://github.com/user-attachments/assets/f5d5e1dc-3c56-4ac4-ae1a-45a7f6987f0b" width="32" height="32" style="filter: invert(100%);"> I’m currently learning - Angular.JS , Docker, AWS. 
 </div>
 <br/>
 <div align="center"> 
@@ -24,14 +24,3 @@
     <img src="https://skillicons.dev/icons?i=mui,tailwind,typescript,prisma,bash,postman,bootstrap" /><br/>
     <img src="https://skillicons.dev/icons?i=aws,mongodb,postgres,supabase,docker,firebase" /><br>
 </div>
-<br/>
-<hr/>
-&nbsp;
-<h2 align="center"><img align="center" src="https://github.com/user-attachments/assets/7fee2c68-c3b5-4f7d-bbf0-9ce101f71e73" width="32" height="32" style="filter: invert(100%);">&nbsp;&nbsp;&nbsp;STATISTICS&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/user-attachments/assets/8c5ca0e7-b9db-4fdd-afc7-0a89e69fd9d5" width="32" height="32" style="filter: invert(100%);"></h2>
-<br>
-<div align=center>
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api?username=GuimaraesSilva&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GuimaraesSilva's GitHub Stats" />
-    <br /><br />
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuimaraesSilva&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="GuimaraesSilva's GitHub Stats" />
-</div>
-<br/><br/>
