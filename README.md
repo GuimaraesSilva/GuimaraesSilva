@@ -1,10 +1,10 @@
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Englebert&size=48&duration=2500&pause=500&color=DAA749&center=true&vCenter=true&random=true&width=260&height=80&lines=Hi+There!+%E2%9C%8C%F0%9F%8F%BD%EF%B8%8F;I'm+F%C3%A1bio+SIlva!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jost&size=60&pause=1000&color=DAA749&width=700&height=120&lines=I'm+F%C3%A1bio+Guimar%C3%A3es+Silva!" alt="Typing SVG" /></a>
 </h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Englebert&size=32&duration=2500&pause=500&color=DAA749&center=true&vCenter=true&repeat=false&random=true&width=600&height=80&lines=A+passionate+Software+Developer+from+Portugal" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jost&size=32&pause=1000&color=DAA749&width=700&height=50&lines=A+passionate+Front-End+Developer+from+Portugal" alt="Typing SVG" /></a></h3>
 <br/>
 <div align="center">
-<img align="center" src="https://github.com/user-attachments/assets/f5d5e1dc-3c56-4ac4-ae1a-45a7f6987f0b" width="32" height="32" style="filter: invert(100%);"> I’m currently learning ** Bun, Docker, AWS, DynamoDB, ElectroDB, Python** 
+<img align="center" src="https://github.com/user-attachments/assets/f5d5e1dc-3c56-4ac4-ae1a-45a7f6987f0b" width="32" height="32" style="filter: invert(100%);"> I’m currently learning ** Angular.JS , Docker, AWS** 
 </div>
 <br/>
 <div align="center"> 
@@ -20,8 +20,9 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=figma,vscode,github,git,nodejs" /><br/>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vitejs,nextjs,mui,tailwind,typescript" /><br/>
-    <img src="https://skillicons.dev/icons?i=bun,mongodb,docker,linux,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,nextjs,wordpress,angular,tailwind,typescript" /><br/>
+    <img src="https://skillicons.dev/icons?i=mui,tailwind,typescript,prisma,bash,postman,bootstrap" /><br/>
+    <img src="https://skillicons.dev/icons?i=aws,mongodb,postgres,supabase,docker,firebase" /><br>
 </div>
 <br/>
 <hr/>
